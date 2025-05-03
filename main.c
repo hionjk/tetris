@@ -75,7 +75,7 @@ void initSounds() {
 
 void initGame() {
   field = initField(width, height, block_size);
-  score = 666;
+  score = 0;
   fallingTime = 0.0f;
   rotateFigureTime = 0.0f;
   moveFigureTime = 0.0f;
