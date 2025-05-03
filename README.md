@@ -1,4 +1,4 @@
 # tetris
 Tetris Game in C language using RayLib library
 
-<img width="570" alt="Знімок екрана 2025-03-25 о 13 00 56" src="https://github.com/user-attachments/assets/b1df0de2-3f29-4fd1-9841-511fa04c8715" />
+<img width="805" alt="Знімок екрана 2025-05-03 о 15 12 44" src="https://github.com/user-attachments/assets/a2c353c1-a11c-4270-9d70-34a10cba0136" />
